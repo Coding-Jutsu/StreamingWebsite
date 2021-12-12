@@ -1,0 +1,16 @@
+lien utile :
+movie icon : https://cdn-icons-png.flaticon.com/512/633/633832.png
+background img src  : https://images8.alphacoders.com/119/1194219.jpg
+
+<!doctype html>
+<html lang="fr"> <!--Ceci est le début d'un document de type HTML.-->
+	<head> <!--Ceci est le début de la zone d'en-tête-->
+		<meta charset="utf-8">
+		<title>Titre de la page</title>
+	</head> <!--Ceci est la fin de la zone  d'en-tête.-->
+	<body> <!--Ceci est le début du document proprement dit.-->
+		test
+		...
+ 
+	</body> <!--Ceci est la fin du document proprement dit.-->
+</html>

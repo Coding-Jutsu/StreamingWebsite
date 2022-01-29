@@ -65,6 +65,46 @@
             background-color: red;
             border-radius: 10px;
         }
+                .arcaneimg{
+            width: 1850px;
+            height: 1000px;
+        }
+        .moviesection{
+            max-width: 900px;
+            text-transform: uppercase;
+            padding-left: 10%;
+            color: white;
+        }
+        hr.rounded{
+            border-top: 3px solid red;
+            border-radius: 5px;
+        }
+        .movieimg .myimages{
+            height: 500px;
+            width: 280px;
+        }
+        .movieimg .myimages img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+        .movieimg{
+            float: left;
+            width: 30%;
+            padding: 15px;
+            max-width: max-content;
+            padding-left: 5px;
+        }
+        .moviecontainer::after{
+            content: "";
+            clear: both;
+            display: table;
+        }
+        .moviecontainer{
+            height: max-content;
+            width: max-content;
+        }
 
         
     </style>

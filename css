@@ -2,10 +2,8 @@
         @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
         body{
             font-family: 'Poppins', sans-serif;
-            background-image: url("https://images8.alphacoders.com/119/1194219.jpg");
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-size: 100% 100%;
+            background-color: black;
+
         }
         .btn{
             position: absolute;

@@ -1,0 +1,10 @@
+
+
+Liens des images utilisées :
+- Venom : https://initiate.alphacoders.com/images/932/cropped-5120-2880-932825.jpg?9617
+- Black Panther : https://initiate.alphacoders.com/images/878/cropped-5120-2880-878088.png?6535
+- Logan : https://images6.alphacoders.com/767/767048.jpg
+- Aquaman : https://initiate.alphacoders.com/images/965/cropped-5120-2880-965685.jpg?8026
+- Sucide Squad : https://initiate.alphacoders.com/images/705/cropped-5120-2880-705679.jpg?7449
+
+Format des images : 5120 par 2280
